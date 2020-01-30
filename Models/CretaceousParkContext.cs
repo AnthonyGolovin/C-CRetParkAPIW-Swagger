@@ -23,3 +23,6 @@ namespace CretaceousPark.Models
         public DbSet<Animal> Animals { get; set; }
     }
 }
+
+// http://localhost:5000/swagger/v1/swagger.json
+// http://localhost:5000/swagger/index.html
